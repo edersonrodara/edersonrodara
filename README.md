@@ -28,7 +28,7 @@
     
   - 📌 Moro em Fortaleza - CE
 
-  - 📔 Meu Curriculo: 
+  - 📔 Meu Curriculo: https://gitconnected.com/edersonrodara/resume
 </h3>
   
 <br>
