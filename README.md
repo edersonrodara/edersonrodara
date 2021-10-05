@@ -132,5 +132,5 @@
   <br>
   <br>
   
-  ![Ederson Rodriguês Araújo GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrodara&show_icons=true&theme=dracula)
+  ![Ederson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edersonrodara&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonrodara&layout=compact&show_icons=true&theme=dracula)
